@@ -5,4 +5,4 @@
 
 ## RMarkdown
 
-(Useful tricks when including images in Rmarkdown documents)[http://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html]  
+[Useful tricks when including images in Rmarkdown documents](http://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html)  
