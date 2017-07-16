@@ -9,3 +9,6 @@
 
 ## DataBases
 http://wid.world/
+
+## PodCast
+[lista de podcasts] (http://ogilvieira.com.br/awesome-podcasts-br/#/) 
