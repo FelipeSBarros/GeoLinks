@@ -11,4 +11,8 @@
 http://wid.world/
 
 ## PodCast
-[lista de podcasts] (http://ogilvieira.com.br/awesome-podcasts-br/#/) 
+[lista de podcasts](http://ogilvieira.com.br/awesome-podcasts-br/#/) 
+
+
+#DataScience 
+(Datasciencebr Python)[https://github.com/datascience-python/awesome-datascience-python/blob/master/Readme.MD] 
