@@ -24,3 +24,6 @@ http://neylsoncrepalde.github.io/2016-03-18-analise-de-conteudo-twitter/
 ## python
 [Intro python geoscience](http://monde-geospatial.com/introduction-to-python-gis-for-data-science/) 
 
+## Machine Learning
+[Ricas estudo ML](https://juliocprocha.wordpress.com/2017/04/09/dicas-de-estudos-para-aprender-machine-learning/) 
+
