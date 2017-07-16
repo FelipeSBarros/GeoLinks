@@ -5,7 +5,7 @@
 
 ## RMarkdown
 
-(Useful tricks when including images in Rmarkdown documents)[http://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html] 
+[Useful tricks when including images in Rmarkdown documents](http://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html) 
 
 ## DataBases  
 http://wid.world/
@@ -15,8 +15,12 @@ http://wid.world/
 
 
 #DataScience 
-(Datasciencebr Python)[https://github.com/datascience-python/awesome-datascience-python/blob/master/Readme.MD] 
+[Datasciencebr Python](https://github.com/datascience-python/awesome-datascience-python/blob/master/Readme.MD)  
 
 ## text mining  
 
 http://neylsoncrepalde.github.io/2016-03-18-analise-de-conteudo-twitter/
+
+## python
+[Intro python geoscience](http://monde-geospatial.com/introduction-to-python-gis-for-data-science/) 
+
