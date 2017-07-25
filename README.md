@@ -9,7 +9,8 @@
 
 ## DataBases  
 
-http://wid.world/
+[World Wealth & Income](http://wid.world/)  
+[Open Air Quality Data](https://openaq.org)  
 
 ## Podcast  
 
