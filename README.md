@@ -12,8 +12,10 @@
 [World Wealth & Income](http://wid.world/)  
 [Open Air Quality Data](https://openaq.org)  
 
-## Podcast  
+## Exercises
+[r-exercises](http://www.r-exercises.com/)
 
+## Podcast  
 [lista de podcasts](http://ogilvieira.com.br/awesome-podcasts-br/#/) 
 
 
@@ -22,7 +24,6 @@
 
 
 ## text mining  
-
 http://neylsoncrepalde.github.io/2016-03-18-analise-de-conteudo-twitter/
 
 ## python
