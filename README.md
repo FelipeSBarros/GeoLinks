@@ -8,6 +8,9 @@
 #### Remote Sensing
 [Working with NBR](https://earthdatascience.org/courses/earth-analytics/spectral-remote-sensing-landsat/normalized-burn-index-dNBR/)
 
+## Google Earth Engine
+[Tutorial on GEE](https://philippgaertner.github.io/2017/08/landsat-satellite-image-inventory-in-google-earth-engine/)
+
 ## RMarkdown
 
 [Useful tricks when including images in Rmarkdown documents](http://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html) 
