@@ -3,6 +3,11 @@
 ## R  
 [Web mapping — the easy way](http://pierreroudier.github.io/teaching/20170626-Pedometrics/20170626-web-vis.html)  
 
+[Earth Data Science](https://earthdatascience.org/courses/)
+
+#### Remote Sensing
+[Working with NBR](https://earthdatascience.org/courses/earth-analytics/spectral-remote-sensing-landsat/normalized-burn-index-dNBR/)
+
 ## RMarkdown
 
 [Useful tricks when including images in Rmarkdown documents](http://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html) 
