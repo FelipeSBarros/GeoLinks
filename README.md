@@ -7,6 +7,8 @@
 
 [UCDavis](http://gfc.ucdavis.edu/events/arusha2016/index.html)
 
+[Earth Analitycs](https://earthdatascience.org/courses/earth-analytics/)
+
 #### Remote Sensing
 [Working with NBR](https://earthdatascience.org/courses/earth-analytics/spectral-remote-sensing-landsat/normalized-burn-index-dNBR/)
 
