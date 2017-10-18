@@ -5,19 +5,24 @@
 
 [Earth Data Science](https://earthdatascience.org/courses/)
 
+[UCDavis](http://gfc.ucdavis.edu/events/arusha2016/index.html)
+
 #### Remote Sensing
 [Working with NBR](https://earthdatascience.org/courses/earth-analytics/spectral-remote-sensing-landsat/normalized-burn-index-dNBR/)
+
+[Hijmans GFC](http://rspatial.org/analysis/index.html)
+
+[RSTool Box](http://bleutner.github.io/RStoolbox/)
 
 ## Google Earth Engine
 [Tutorial on GEE](https://philippgaertner.github.io/2017/08/landsat-satellite-image-inventory-in-google-earth-engine/)
 
 ## RMarkdown
-
 [Useful tricks when including images in Rmarkdown documents](http://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html) 
 
 ## DataBases  
-
 [World Wealth & Income](http://wid.world/)  
+
 [Open Air Quality Data](https://openaq.org)  
 
 ## Exercises
@@ -38,5 +43,4 @@ http://neylsoncrepalde.github.io/2016-03-18-analise-de-conteudo-twitter/
 [Intro python geoscience](http://monde-geospatial.com/introduction-to-python-gis-for-data-science/) 
 
 ## Machine Learning
-[Ricas estudo ML](https://juliocprocha.wordpress.com/2017/04/09/dicas-de-estudos-para-aprender-machine-learning/) 
-
+[Dicas estudo ML](https://juliocprocha.wordpress.com/2017/04/09/dicas-de-estudos-para-aprender-machine-learning/) 
