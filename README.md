@@ -16,6 +16,8 @@
 
 [RSTool Box](http://bleutner.github.io/RStoolbox/)
 
+[WUR Geoscripting](https://geoscripting-wur.github.io) #R & #Python
+
 ## Google Earth Engine
 [Tutorial on GEE](https://philippgaertner.github.io/2017/08/landsat-satellite-image-inventory-in-google-earth-engine/)
 
@@ -28,7 +30,7 @@
 [Open Air Quality Data](https://openaq.org)  
 
 ## Exercises
-[r-exercises](http://www.r-exercises.com/)
+[r-exercises](http://WURwww.r-exercises.com/)
 
 ## Podcast  
 [lista de podcasts](http://ogilvieira.com.br/awesome-podcasts-br/#/) 
